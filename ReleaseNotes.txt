@@ -1,0 +1,2 @@
+Release notes Jyocoin 1.0
+- initial fork of Karbowanec 1.46

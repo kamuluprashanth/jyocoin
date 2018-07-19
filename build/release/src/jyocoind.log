@@ -1,0 +1,132 @@
+2018-Jul-19 11:33:50.587753 INFO    [daemon] jyocoin v1.4.8.777 (210e4c2-dirty)
+2018-Jul-19 11:33:50.588261 INFO    [daemon] Module folder: ./jyocoind
+2018-Jul-19 11:33:50.590094 INFO    [daemon] Initializing p2p server...
+2018-Jul-19 11:33:50.592386 INFO    [node_server] Network: 64aaff55-9c3c-533a-9c47-67169343d0e8
+2018-Jul-19 11:33:50.592665 INFO    [node_server] Binding on 0.0.0.0:45215
+2018-Jul-19 11:33:50.592910 INFO    [node_server] Net service binded on 0.0.0.0:45215
+2018-Jul-19 11:33:50.593088 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Jul-19 11:33:54.598439 INFO    [node_server] No IGD was found.
+2018-Jul-19 11:33:54.598709 INFO    [daemon] P2p server initialized OK
+2018-Jul-19 11:33:54.598935 INFO    [daemon] Initializing core...
+2018-Jul-19 11:33:54.600323 INFO    [Blockchain] Loading blockchain...
+2018-Jul-19 11:33:54.600748 INFO    [BlockCacheSerializer] - loading block index...
+2018-Jul-19 11:33:54.604582 INFO    [BlockCacheSerializer] - loading transaction map...
+2018-Jul-19 11:33:54.606800 INFO    [BlockCacheSerializer] - loading spent keys...
+2018-Jul-19 11:33:54.607744 INFO    [BlockCacheSerializer] - loading outputs...
+2018-Jul-19 11:33:54.619264 INFO    [BlockCacheSerializer] - loading multi-signature outputs...
+2018-Jul-19 11:33:54.619330 INFO    [BlockCacheSerializer] Serialization time: 18ms
+2018-Jul-19 11:33:54.619398 ERROR   [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
+2018-Jul-19 11:33:54.619445 ERROR   [core] Failed to initialize blockchain storage
+2018-Jul-19 11:33:54.619483 ERROR   [daemon] Failed to initialize core
+2018-Jul-19 11:33:54.619564 INFO    [miner] Mining has been stopped, 0 finished
+2018-Jul-19 11:34:26.893638 INFO    [daemon] jyocoin v1.4.8.777 (210e4c2-dirty)
+2018-Jul-19 11:34:26.893765 INFO    [daemon] Module folder: ./jyocoind
+2018-Jul-19 11:34:26.893804 INFO    [daemon] Starting in testnet mode!
+2018-Jul-19 11:34:26.894356 INFO    [daemon] Initializing p2p server...
+2018-Jul-19 11:34:26.894431 INFO    [node_server] Generated new peer ID: 15729874597598937868
+2018-Jul-19 11:34:26.894474 INFO    [node_server] Network: 65aaff55-9c3c-533a-9c47-67169343d0e8
+2018-Jul-19 11:34:26.894517 INFO    [node_server] Binding on 0.0.0.0:45215
+2018-Jul-19 11:34:26.894585 INFO    [node_server] Net service binded on 0.0.0.0:45215
+2018-Jul-19 11:34:26.894624 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Jul-19 11:34:30.899685 INFO    [node_server] No IGD was found.
+2018-Jul-19 11:34:30.899957 INFO    [daemon] P2p server initialized OK
+2018-Jul-19 11:34:30.900191 INFO    [daemon] Initializing core...
+2018-Jul-19 11:34:30.900781 INFO    [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jul-19 11:34:30.924037 INFO    [Blockchain] Blockchain initialized. last block: 0, d2206.h01.m04.s30 time ago, current difficulty: 1
+2018-Jul-19 11:34:30.924092 INFO    [daemon] Core initialized OK
+2018-Jul-19 11:34:30.924167 INFO    [daemon] Starting core rpc server on address 127.0.0.1:45216
+2018-Jul-19 11:34:30.924244 INFO    [daemon] Core rpc server started ok
+2018-Jul-19 11:34:30.924293 INFO    [daemon] Starting p2p net loop...
+2018-Jul-19 11:34:30.924325 INFO    [node_server] Starting node_server
+2018-Jul-19 11:34:30.924384 INFO    [core] 
+2018-Jul-19 11:34:30.924384 INFO    [core] **********************************************************************
+2018-Jul-19 11:34:30.924384 INFO    [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2018-Jul-19 11:34:30.924384 INFO    [core] 
+2018-Jul-19 11:34:30.924384 INFO    [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2018-Jul-19 11:34:30.924384 INFO    [core] 
+2018-Jul-19 11:34:30.924384 INFO    [core] Use "help" command to see the list of available commands.
+2018-Jul-19 11:34:30.924384 INFO    [core] 
+2018-Jul-19 11:34:30.924384 INFO    [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2018-Jul-19 11:34:30.924384 INFO    [core] **********************************************************************
+2018-Jul-19 11:39:34.087061 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:40:39.909939 INFO    [miner] Mining has started with 1 threads, good luck!
+2018-Jul-19 11:40:39.909970 INFO    [miner] Miner thread was started [0]
+2018-Jul-19 11:40:39.938773 INFO    [miner] Found block for difficulty: 1
+2018-Jul-19 11:40:39.999179 INFO    [miner] Found block for difficulty: 1
+2018-Jul-19 11:40:43.723356 INFO    [miner] Found block for difficulty: 60
+2018-Jul-19 11:40:44.077087 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:41:31.090868 INFO    [miner] Found block for difficulty: 1220
+2018-Jul-19 11:41:34.080882 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:41:54.825030 INFO    [miner] Found block for difficulty: 1508
+2018-Jul-19 11:41:59.082964 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:41:59.338573 INFO    [miner] Found block for difficulty: 2391
+2018-Jul-19 11:42:04.083560 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:42:20.748963 INFO    [miner] Found block for difficulty: 4090
+2018-Jul-19 11:42:24.085253 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:42:24.950608 INFO    [miner] Found block for difficulty: 5562
+2018-Jul-19 11:42:29.085993 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:42:43.481765 INFO    [miner] Found block for difficulty: 8812
+2018-Jul-19 11:42:44.088187 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:43:43.340311 INFO    [miner] Found block for difficulty: 11441
+2018-Jul-19 11:43:44.346543 ERROR   [core] knownBlockIds doesn't end with genesis block hash: d7a84504d47aee0d6412ae58106b1866e4009d2801ee6db37a00ac24b884ac77
+2018-Jul-19 11:43:52.845377 ERROR   [miner] Starting miner but it's already started
+2018-Jul-19 11:44:31.605191 INFO    [node_server] Stop signal sent
+2018-Jul-19 11:44:31.605284 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2018-Jul-19 11:44:31.605379 INFO    [node_server] NodeServer loop stopped
+2018-Jul-19 11:44:31.605405 INFO    [daemon] p2p net loop stopped
+2018-Jul-19 11:44:31.605426 INFO    [daemon] Stopping core rpc server...
+2018-Jul-19 11:44:31.605499 INFO    [daemon] Deinitializing core...
+2018-Jul-19 11:44:31.616423 INFO    [miner] Miner thread stopped [0]
+2018-Jul-19 11:44:31.616530 INFO    [miner] Mining has been stopped, 0 finished
+2018-Jul-19 11:44:31.616661 INFO    [Blockchain] Saving blockchain...
+2018-Jul-19 11:44:31.616713 INFO    [BlockCacheSerializer] - saving block index...
+2018-Jul-19 11:44:31.616750 INFO    [BlockCacheSerializer] - saving transaction map...
+2018-Jul-19 11:44:31.616789 INFO    [BlockCacheSerializer] - saving spent keys...
+2018-Jul-19 11:44:31.616827 INFO    [BlockCacheSerializer] - saving outputs...
+2018-Jul-19 11:44:31.616868 INFO    [BlockCacheSerializer] - saving multi-signature outputs...
+2018-Jul-19 11:44:31.616907 INFO    [BlockCacheSerializer] Serialization time: 0ms
+2018-Jul-19 11:44:31.616948 INFO    [daemon] Deinitializing p2p...
+2018-Jul-19 11:44:31.617042 INFO    [miner] Mining has been stopped, 0 finished
+2018-Jul-19 11:44:31.617136 INFO    [daemon] Node stopped.
+2018-Jul-19 11:44:37.468578 INFO    [daemon] jyocoin v1.4.8.777 (210e4c2-dirty)
+2018-Jul-19 11:44:37.469007 INFO    [daemon] Module folder: ./jyocoind
+2018-Jul-19 11:44:37.470702 INFO    [daemon] Initializing p2p server...
+2018-Jul-19 11:44:37.472326 INFO    [node_server] Network: 64aaff55-9c3c-533a-9c47-67169343d0e8
+2018-Jul-19 11:44:37.472565 INFO    [node_server] Binding on 0.0.0.0:45215
+2018-Jul-19 11:44:37.472786 INFO    [node_server] Net service binded on 0.0.0.0:45215
+2018-Jul-19 11:44:37.472909 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Jul-19 11:44:41.478269 INFO    [node_server] No IGD was found.
+2018-Jul-19 11:44:41.478523 INFO    [daemon] P2p server initialized OK
+2018-Jul-19 11:44:41.478750 INFO    [daemon] Initializing core...
+2018-Jul-19 11:44:41.480063 INFO    [Blockchain] Loading blockchain...
+2018-Jul-19 11:44:41.480382 INFO    [BlockCacheSerializer] - loading block index...
+2018-Jul-19 11:44:41.483975 INFO    [BlockCacheSerializer] - loading transaction map...
+2018-Jul-19 11:44:41.486438 INFO    [BlockCacheSerializer] - loading spent keys...
+2018-Jul-19 11:44:41.487367 INFO    [BlockCacheSerializer] - loading outputs...
+2018-Jul-19 11:44:41.498706 INFO    [BlockCacheSerializer] - loading multi-signature outputs...
+2018-Jul-19 11:44:41.498766 INFO    [BlockCacheSerializer] Serialization time: 18ms
+2018-Jul-19 11:44:41.498833 ERROR   [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
+2018-Jul-19 11:44:41.498868 ERROR   [core] Failed to initialize blockchain storage
+2018-Jul-19 11:44:41.498895 ERROR   [daemon] Failed to initialize core
+2018-Jul-19 11:44:41.498956 INFO    [miner] Mining has been stopped, 0 finished
+2018-Jul-19 11:46:22.047732 INFO    [daemon] jyocoin v1.4.8.777 (210e4c2-dirty)
+2018-Jul-19 11:46:22.047854 INFO    [daemon] Module folder: ./jyocoind
+2018-Jul-19 11:46:22.048402 INFO    [daemon] Initializing p2p server...
+2018-Jul-19 11:46:22.048780 INFO    [node_server] Network: 64aaff55-9c3c-533a-9c47-67169343d0e8
+2018-Jul-19 11:46:22.048818 INFO    [node_server] Binding on 0.0.0.0:45215
+2018-Jul-19 11:46:22.048863 INFO    [node_server] Net service binded on 0.0.0.0:45215
+2018-Jul-19 11:46:22.048894 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Jul-19 11:46:26.052576 INFO    [node_server] No IGD was found.
+2018-Jul-19 11:46:26.052827 INFO    [daemon] P2p server initialized OK
+2018-Jul-19 11:46:26.053000 INFO    [daemon] Initializing core...
+2018-Jul-19 11:46:26.054274 INFO    [Blockchain] Loading blockchain...
+2018-Jul-19 11:46:26.054606 INFO    [BlockCacheSerializer] - loading block index...
+2018-Jul-19 11:46:26.060368 INFO    [BlockCacheSerializer] - loading transaction map...
+2018-Jul-19 11:46:26.070240 INFO    [BlockCacheSerializer] - loading spent keys...
+2018-Jul-19 11:46:26.074287 INFO    [BlockCacheSerializer] - loading outputs...
+2018-Jul-19 11:46:26.104201 INFO    [BlockCacheSerializer] - loading multi-signature outputs...
+2018-Jul-19 11:46:26.104288 INFO    [BlockCacheSerializer] Serialization time: 49ms
+2018-Jul-19 11:46:26.104386 ERROR   [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
+2018-Jul-19 11:46:26.104447 ERROR   [core] Failed to initialize blockchain storage
+2018-Jul-19 11:46:26.104506 ERROR   [daemon] Failed to initialize core
+2018-Jul-19 11:46:26.104602 INFO    [miner] Mining has been stopped, 0 finished
