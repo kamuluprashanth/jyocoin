@@ -100,9 +100,9 @@ map
 crypto/crypto.h
 ../../src/mnemonics/crypto/crypto.h
 
-/var/www/html/jyocoin/src/mnemonics/chinese_simplified.h
+/var/www/html/jyocoin2/src/mnemonics/chinese_simplified.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -110,9 +110,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/dutch.h
+/var/www/html/jyocoin2/src/mnemonics/dutch.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -120,7 +120,7 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/electrum-words.cpp
+/var/www/html/jyocoin2/src/mnemonics/electrum-words.cpp
 string
 -
 cassert
@@ -146,41 +146,41 @@ boost/crc.hpp
 boost/filesystem.hpp
 -
 crypto/crypto.h
-/var/www/html/jyocoin/src/mnemonics/crypto/crypto.h
+/var/www/html/jyocoin2/src/mnemonics/crypto/crypto.h
 Common/Lazy.h
-/var/www/html/jyocoin/src/mnemonics/Common/Lazy.h
+/var/www/html/jyocoin2/src/mnemonics/Common/Lazy.h
 mnemonics/electrum-words.h
-/var/www/html/jyocoin/src/mnemonics/mnemonics/electrum-words.h
+/var/www/html/jyocoin2/src/mnemonics/mnemonics/electrum-words.h
 chinese_simplified.h
-/var/www/html/jyocoin/src/mnemonics/chinese_simplified.h
+/var/www/html/jyocoin2/src/mnemonics/chinese_simplified.h
 english.h
-/var/www/html/jyocoin/src/mnemonics/english.h
+/var/www/html/jyocoin2/src/mnemonics/english.h
 dutch.h
-/var/www/html/jyocoin/src/mnemonics/dutch.h
+/var/www/html/jyocoin2/src/mnemonics/dutch.h
 french.h
-/var/www/html/jyocoin/src/mnemonics/french.h
+/var/www/html/jyocoin2/src/mnemonics/french.h
 italian.h
-/var/www/html/jyocoin/src/mnemonics/italian.h
+/var/www/html/jyocoin2/src/mnemonics/italian.h
 german.h
-/var/www/html/jyocoin/src/mnemonics/german.h
+/var/www/html/jyocoin2/src/mnemonics/german.h
 spanish.h
-/var/www/html/jyocoin/src/mnemonics/spanish.h
+/var/www/html/jyocoin2/src/mnemonics/spanish.h
 portuguese.h
-/var/www/html/jyocoin/src/mnemonics/portuguese.h
+/var/www/html/jyocoin2/src/mnemonics/portuguese.h
 japanese.h
-/var/www/html/jyocoin/src/mnemonics/japanese.h
+/var/www/html/jyocoin2/src/mnemonics/japanese.h
 polish.h
-/var/www/html/jyocoin/src/mnemonics/polish.h
+/var/www/html/jyocoin2/src/mnemonics/polish.h
 russian.h
-/var/www/html/jyocoin/src/mnemonics/russian.h
+/var/www/html/jyocoin2/src/mnemonics/russian.h
 ukrainian.h
-/var/www/html/jyocoin/src/mnemonics/ukrainian.h
+/var/www/html/jyocoin2/src/mnemonics/ukrainian.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 
-/var/www/html/jyocoin/src/mnemonics/english.h
+/var/www/html/jyocoin2/src/mnemonics/english.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -188,9 +188,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/french.h
+/var/www/html/jyocoin2/src/mnemonics/french.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -198,9 +198,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/german.h
+/var/www/html/jyocoin2/src/mnemonics/german.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -208,9 +208,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/italian.h
+/var/www/html/jyocoin2/src/mnemonics/italian.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -218,9 +218,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/japanese.h
+/var/www/html/jyocoin2/src/mnemonics/japanese.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -228,7 +228,7 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -236,9 +236,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/polish.h
+/var/www/html/jyocoin2/src/mnemonics/polish.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -246,9 +246,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/portuguese.h
+/var/www/html/jyocoin2/src/mnemonics/portuguese.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -256,9 +256,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/russian.h
+/var/www/html/jyocoin2/src/mnemonics/russian.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -266,9 +266,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/spanish.h
+/var/www/html/jyocoin2/src/mnemonics/spanish.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map
@@ -276,9 +276,9 @@ unordered_map
 string
 -
 
-/var/www/html/jyocoin/src/mnemonics/ukrainian.h
+/var/www/html/jyocoin2/src/mnemonics/ukrainian.h
 language_base.h
-/var/www/html/jyocoin/src/mnemonics/language_base.h
+/var/www/html/jyocoin2/src/mnemonics/language_base.h
 vector
 -
 unordered_map

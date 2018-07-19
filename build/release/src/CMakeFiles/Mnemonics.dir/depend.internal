@@ -12,17 +12,17 @@ src/CMakeFiles/Mnemonics.dir/mnemonics/electrum-words.cpp.o
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
  ../../src/mnemonics/electrum-words.h
- /var/www/html/jyocoin/src/mnemonics/chinese_simplified.h
- /var/www/html/jyocoin/src/mnemonics/dutch.h
- /var/www/html/jyocoin/src/mnemonics/electrum-words.cpp
- /var/www/html/jyocoin/src/mnemonics/english.h
- /var/www/html/jyocoin/src/mnemonics/french.h
- /var/www/html/jyocoin/src/mnemonics/german.h
- /var/www/html/jyocoin/src/mnemonics/italian.h
- /var/www/html/jyocoin/src/mnemonics/japanese.h
- /var/www/html/jyocoin/src/mnemonics/language_base.h
- /var/www/html/jyocoin/src/mnemonics/polish.h
- /var/www/html/jyocoin/src/mnemonics/portuguese.h
- /var/www/html/jyocoin/src/mnemonics/russian.h
- /var/www/html/jyocoin/src/mnemonics/spanish.h
- /var/www/html/jyocoin/src/mnemonics/ukrainian.h
+ /var/www/html/jyocoin2/src/mnemonics/chinese_simplified.h
+ /var/www/html/jyocoin2/src/mnemonics/dutch.h
+ /var/www/html/jyocoin2/src/mnemonics/electrum-words.cpp
+ /var/www/html/jyocoin2/src/mnemonics/english.h
+ /var/www/html/jyocoin2/src/mnemonics/french.h
+ /var/www/html/jyocoin2/src/mnemonics/german.h
+ /var/www/html/jyocoin2/src/mnemonics/italian.h
+ /var/www/html/jyocoin2/src/mnemonics/japanese.h
+ /var/www/html/jyocoin2/src/mnemonics/language_base.h
+ /var/www/html/jyocoin2/src/mnemonics/polish.h
+ /var/www/html/jyocoin2/src/mnemonics/portuguese.h
+ /var/www/html/jyocoin2/src/mnemonics/russian.h
+ /var/www/html/jyocoin2/src/mnemonics/spanish.h
+ /var/www/html/jyocoin2/src/mnemonics/ukrainian.h

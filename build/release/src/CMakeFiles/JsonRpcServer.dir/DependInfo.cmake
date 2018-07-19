@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/src/JsonRpcServer/JsonRpcServer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/JsonRpcServer.dir/JsonRpcServer/JsonRpcServer.cpp.o"
+  "/var/www/html/jyocoin2/src/JsonRpcServer/JsonRpcServer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/JsonRpcServer.dir/JsonRpcServer/JsonRpcServer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

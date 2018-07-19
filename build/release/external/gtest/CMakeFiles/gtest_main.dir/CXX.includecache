@@ -246,9 +246,9 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/var/www/html/jyocoin/external/gtest/src/gtest_main.cc
+/var/www/html/jyocoin2/external/gtest/src/gtest_main.cc
 stdio.h
 -
 gtest/gtest.h
-/var/www/html/jyocoin/external/gtest/src/gtest/gtest.h
+/var/www/html/jyocoin2/external/gtest/src/gtest/gtest.h
 

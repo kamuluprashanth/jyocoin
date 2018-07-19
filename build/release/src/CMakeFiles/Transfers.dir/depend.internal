@@ -41,12 +41,12 @@ src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Transfers/BlockchainSynchronizer.cpp
- /var/www/html/jyocoin/src/Transfers/BlockchainSynchronizer.h
- /var/www/html/jyocoin/src/Transfers/CommonTypes.h
- /var/www/html/jyocoin/src/Transfers/IBlockchainSynchronizer.h
- /var/www/html/jyocoin/src/Transfers/IObservableImpl.h
- /var/www/html/jyocoin/src/Transfers/SynchronizationState.h
+ /var/www/html/jyocoin2/src/Transfers/BlockchainSynchronizer.cpp
+ /var/www/html/jyocoin2/src/Transfers/BlockchainSynchronizer.h
+ /var/www/html/jyocoin2/src/Transfers/CommonTypes.h
+ /var/www/html/jyocoin2/src/Transfers/IBlockchainSynchronizer.h
+ /var/www/html/jyocoin2/src/Transfers/IObservableImpl.h
+ /var/www/html/jyocoin2/src/Transfers/SynchronizationState.h
 src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -77,9 +77,9 @@ src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Transfers/CommonTypes.h
- /var/www/html/jyocoin/src/Transfers/SynchronizationState.cpp
- /var/www/html/jyocoin/src/Transfers/SynchronizationState.h
+ /var/www/html/jyocoin2/src/Transfers/CommonTypes.h
+ /var/www/html/jyocoin2/src/Transfers/SynchronizationState.cpp
+ /var/www/html/jyocoin2/src/Transfers/SynchronizationState.h
 src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -121,14 +121,14 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Transfers/CommonTypes.h
- /var/www/html/jyocoin/src/Transfers/IBlockchainSynchronizer.h
- /var/www/html/jyocoin/src/Transfers/IObservableImpl.h
- /var/www/html/jyocoin/src/Transfers/TransfersConsumer.cpp
- /var/www/html/jyocoin/src/Transfers/TransfersConsumer.h
- /var/www/html/jyocoin/src/Transfers/TransfersContainer.h
- /var/www/html/jyocoin/src/Transfers/TransfersSubscription.h
- /var/www/html/jyocoin/src/Transfers/TypeHelpers.h
+ /var/www/html/jyocoin2/src/Transfers/CommonTypes.h
+ /var/www/html/jyocoin2/src/Transfers/IBlockchainSynchronizer.h
+ /var/www/html/jyocoin2/src/Transfers/IObservableImpl.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersConsumer.cpp
+ /var/www/html/jyocoin2/src/Transfers/TransfersConsumer.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersContainer.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.h
+ /var/www/html/jyocoin2/src/Transfers/TypeHelpers.h
 src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -166,8 +166,8 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Transfers/TransfersContainer.cpp
- /var/www/html/jyocoin/src/Transfers/TransfersContainer.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersContainer.cpp
+ /var/www/html/jyocoin2/src/Transfers/TransfersContainer.h
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -198,10 +198,10 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Transfers/IObservableImpl.h
- /var/www/html/jyocoin/src/Transfers/TransfersContainer.h
- /var/www/html/jyocoin/src/Transfers/TransfersSubscription.cpp
- /var/www/html/jyocoin/src/Transfers/TransfersSubscription.h
+ /var/www/html/jyocoin2/src/Transfers/IObservableImpl.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersContainer.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.cpp
+ /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.h
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -239,11 +239,11 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Transfers/IBlockchainSynchronizer.h
- /var/www/html/jyocoin/src/Transfers/IObservableImpl.h
- /var/www/html/jyocoin/src/Transfers/TransfersConsumer.h
- /var/www/html/jyocoin/src/Transfers/TransfersContainer.h
- /var/www/html/jyocoin/src/Transfers/TransfersSubscription.h
- /var/www/html/jyocoin/src/Transfers/TransfersSynchronizer.cpp
- /var/www/html/jyocoin/src/Transfers/TransfersSynchronizer.h
- /var/www/html/jyocoin/src/Transfers/TypeHelpers.h
+ /var/www/html/jyocoin2/src/Transfers/IBlockchainSynchronizer.h
+ /var/www/html/jyocoin2/src/Transfers/IObservableImpl.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersConsumer.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersContainer.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.h
+ /var/www/html/jyocoin2/src/Transfers/TransfersSynchronizer.cpp
+ /var/www/html/jyocoin2/src/Transfers/TransfersSynchronizer.h
+ /var/www/html/jyocoin2/src/Transfers/TypeHelpers.h

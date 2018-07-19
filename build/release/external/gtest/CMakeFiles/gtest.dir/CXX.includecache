@@ -482,21 +482,21 @@ netdb.h
 src/gtest-internal-inl.h
 ../../external/gtest/src/src/gtest-internal-inl.h
 
-/var/www/html/jyocoin/external/gtest/src/gtest-all.cc
+/var/www/html/jyocoin2/external/gtest/src/gtest-all.cc
 gtest/gtest.h
-/var/www/html/jyocoin/external/gtest/src/gtest/gtest.h
+/var/www/html/jyocoin2/external/gtest/src/gtest/gtest.h
 src/gtest.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest.cc
 src/gtest-death-test.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest-death-test.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest-death-test.cc
 src/gtest-filepath.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest-filepath.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest-filepath.cc
 src/gtest-port.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest-port.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest-port.cc
 src/gtest-printers.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest-printers.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest-printers.cc
 src/gtest-test-part.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest-test-part.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest-test-part.cc
 src/gtest-typed-test.cc
-/var/www/html/jyocoin/external/gtest/src/src/gtest-typed-test.cc
+/var/www/html/jyocoin2/external/gtest/src/src/gtest-typed-test.cc
 

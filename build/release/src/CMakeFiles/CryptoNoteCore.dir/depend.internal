@@ -17,10 +17,10 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o
  ../../src/crypto/hash.h
  ../../src/crypto/keccak.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Account.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Account.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Account.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Account.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -36,10 +36,10 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/BlockIndex.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/BlockIndex.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/BlockIndex.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/BlockIndex.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -106,10 +106,10 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Blockchain.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Blockchain.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Blockchain.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Blockchain.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -146,16 +146,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainIndices.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainIndices.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainIndices.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainIndices.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
  ../../include/android.h
  ../../src/CryptoNoteCore/BlockchainMessages.h
- /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainMessages.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainMessages.cpp
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -172,9 +172,9 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Checkpoints.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Checkpoints.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Checkpoints.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Checkpoints.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -240,43 +240,43 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o
  ../../src/crypto/chacha8.h
  ../../src/crypto/crypto.h
  ../../src/crypto/hash.h
- /var/www/html/jyocoin/src/Common/CommandLine.h
- /var/www/html/jyocoin/src/Common/Math.h
- /var/www/html/jyocoin/src/Common/StringTools.h
- /var/www/html/jyocoin/src/Common/Util.h
- /var/www/html/jyocoin/src/Common/static_assert.h
- /var/www/html/jyocoin/src/CryptoNoteConfig.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Blockchain.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Core.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Core.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteStatInfo.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Currency.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.h
- /var/www/html/jyocoin/src/CryptoNoteCore/IBlock.h
- /var/www/html/jyocoin/src/CryptoNoteCore/ICore.h
- /var/www/html/jyocoin/src/CryptoNoteCore/ICoreObserver.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Miner.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPool.h
- /var/www/html/jyocoin/src/CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
- /var/www/html/jyocoin/src/Logging/ILogger.h
- /var/www/html/jyocoin/src/Logging/LoggerMessage.h
- /var/www/html/jyocoin/src/Logging/LoggerRef.h
- /var/www/html/jyocoin/src/Rpc/CoreRpcServerCommandsDefinitions.h
- /var/www/html/jyocoin/src/crypto/crypto.h
- /var/www/html/jyocoin/src/crypto/generic-ops.h
- /var/www/html/jyocoin/src/crypto/hash-ops.h
- /var/www/html/jyocoin/src/crypto/hash.h
- /var/www/html/jyocoin/src/crypto/random.h
+ /var/www/html/jyocoin2/src/Common/CommandLine.h
+ /var/www/html/jyocoin2/src/Common/Math.h
+ /var/www/html/jyocoin2/src/Common/StringTools.h
+ /var/www/html/jyocoin2/src/Common/Util.h
+ /var/www/html/jyocoin2/src/Common/static_assert.h
+ /var/www/html/jyocoin2/src/CryptoNoteConfig.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Blockchain.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Core.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Core.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteStatInfo.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Currency.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/IBlock.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/ICore.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/ICoreObserver.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Miner.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPool.h
+ /var/www/html/jyocoin2/src/CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
+ /var/www/html/jyocoin2/src/Logging/ILogger.h
+ /var/www/html/jyocoin2/src/Logging/LoggerMessage.h
+ /var/www/html/jyocoin2/src/Logging/LoggerRef.h
+ /var/www/html/jyocoin2/src/Rpc/CoreRpcServerCommandsDefinitions.h
+ /var/www/html/jyocoin2/src/crypto/crypto.h
+ /var/www/html/jyocoin2/src/crypto/generic-ops.h
+ /var/www/html/jyocoin2/src/crypto/hash-ops.h
+ /var/www/html/jyocoin2/src/crypto/hash.h
+ /var/www/html/jyocoin2/src/crypto/random.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o
  ../../src/Common/CommandLine.h
  ../../src/Common/Util.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CoreConfig.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/CoreConfig.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CoreConfig.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CoreConfig.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -288,8 +288,8 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -314,12 +314,12 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -348,14 +348,14 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Account.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Account.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -381,13 +381,13 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Account.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Account.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -410,11 +410,11 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -440,28 +440,28 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o
  ../../src/crypto/crypto.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Common/Base58.h
- /var/www/html/jyocoin/src/Common/StringTools.h
- /var/www/html/jyocoin/src/Common/int-util.h
- /var/www/html/jyocoin/src/Common/static_assert.h
- /var/www/html/jyocoin/src/CryptoNoteConfig.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Account.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Currency.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Currency.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
- /var/www/html/jyocoin/src/CryptoNoteCore/UpgradeDetector.h
- /var/www/html/jyocoin/src/Logging/ILogger.h
- /var/www/html/jyocoin/src/Logging/LoggerMessage.h
- /var/www/html/jyocoin/src/Logging/LoggerRef.h
- /var/www/html/jyocoin/src/crypto/generic-ops.h
- /var/www/html/jyocoin/src/crypto/hash-ops.h
- /var/www/html/jyocoin/src/crypto/hash.h
+ /var/www/html/jyocoin2/src/Common/Base58.h
+ /var/www/html/jyocoin2/src/Common/StringTools.h
+ /var/www/html/jyocoin2/src/Common/int-util.h
+ /var/www/html/jyocoin2/src/Common/static_assert.h
+ /var/www/html/jyocoin2/src/CryptoNoteConfig.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Account.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Currency.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Currency.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/UpgradeDetector.h
+ /var/www/html/jyocoin2/src/Logging/ILogger.h
+ /var/www/html/jyocoin2/src/Logging/LoggerMessage.h
+ /var/www/html/jyocoin2/src/Logging/LoggerRef.h
+ /var/www/html/jyocoin2/src/crypto/generic-ops.h
+ /var/www/html/jyocoin2/src/crypto/hash-ops.h
+ /var/www/html/jyocoin2/src/crypto/hash.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o
  ../../include/CryptoTypes.h
  ../../src/Common/int-util.h
@@ -470,17 +470,17 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
  ../../include/android.h
- /var/www/html/jyocoin/src/CryptoNoteCore/IBlock.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/IBlock.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/IBlock.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/IBlock.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o
- /var/www/html/jyocoin/src/CryptoNoteCore/ITimeProvider.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/ITimeProvider.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/ITimeProvider.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/ITimeProvider.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -522,19 +522,19 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Miner.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/Miner.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Miner.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Miner.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o
  ../../src/Common/CommandLine.h
- /var/www/html/jyocoin/src/CryptoNoteCore/MinerConfig.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/MinerConfig.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/MinerConfig.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/MinerConfig.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o
- /var/www/html/jyocoin/src/CryptoNoteCore/SwappedMap.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/SwappedMap.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedMap.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedMap.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o
  ../../src/Common/IInputStream.h
  ../../src/Common/IOutputStream.h
@@ -545,8 +545,8 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o
  ../../src/Serialization/BinaryOutputStreamSerializer.h
  ../../src/Serialization/ISerializer.h
  ../../src/Serialization/SerializationOverloads.h
- /var/www/html/jyocoin/src/CryptoNoteCore/SwappedVector.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/SwappedVector.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedVector.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedVector.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -574,13 +574,13 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Account.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/Transaction.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionApiExtra.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Account.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/Transaction.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionApiExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -604,11 +604,11 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -658,12 +658,12 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPool.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPool.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPool.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPool.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -693,8 +693,8 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPrefixImpl.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPrefixImpl.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -717,12 +717,12 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.h
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -753,5 +753,5 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/CryptoNoteCore/UpgradeDetector.cpp
- /var/www/html/jyocoin/src/CryptoNoteCore/UpgradeDetector.h
+ /var/www/html/jyocoin2/src/CryptoNoteCore/UpgradeDetector.cpp
+ /var/www/html/jyocoin2/src/CryptoNoteCore/UpgradeDetector.h

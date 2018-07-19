@@ -2,9 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc92dcff-ad18-41df-b6ba-bb82573a3936" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeCache.txt" afterPath="$PROJECT_DIR$/build/release/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeError.log" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeError.log" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeRuleHashes.txt" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeRuleHashes.txt" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/Makefile2" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/TargetDirectories.txt" />
+      <change beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/build.make" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/Makefile" afterPath="$PROJECT_DIR$/build/release/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/release/external/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/Makefile" afterPath="$PROJECT_DIR$/build/release/external/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/build.make" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/build.make" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/gtest/Makefile" afterPath="$PROJECT_DIR$/build/release/external/gtest/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/C.includecache" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/C.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/build.make" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/Makefile" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/C.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/C.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Mnemonics.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/CXX.includecache" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/build.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/depend.internal" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/flags.make" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/Makefile" afterPath="$PROJECT_DIR$/build/release/src/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/cryptowallet.bin.address" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/cryptowallet.bin.wallet" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/cryptowallet.bin.walletbak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/jyocoind" afterPath="$PROJECT_DIR$/build/release/src/jyocoind" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/jyocoind.log" afterPath="$PROJECT_DIR$/build/release/src/jyocoind.log" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/simplewallet" afterPath="$PROJECT_DIR$/build/release/src/simplewallet" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/simplewallet.log" afterPath="$PROJECT_DIR$/build/release/src/simplewallet.log" />
+      <change beforePath="$PROJECT_DIR$/build/release/src/walletd" afterPath="$PROJECT_DIR$/build/release/src/walletd" />
+      <change beforePath="$PROJECT_DIR$/build/release/version/version.h" afterPath="$PROJECT_DIR$/build/release/version/version.h" />
+      <change beforePath="$PROJECT_DIR$/src/CryptoNoteConfig.h" afterPath="$PROJECT_DIR$/src/CryptoNoteConfig.h" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +169,8 @@
       <file leaf-file-name="CryptoNoteConfig.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CryptoNoteConfig.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="99" column="66" lean-forward="false" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="66" />
+            <state relative-caret-position="173">
+              <caret line="96" column="134" lean-forward="false" selection-start-line="96" selection-start-column="134" selection-end-line="96" selection-end-column="134" />
               <folding />
             </state>
           </provider>
@@ -58,7 +209,7 @@
       <file leaf-file-name="P2pNetworks.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P2p/P2pNetworks.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="609">
               <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding />
             </state>
@@ -173,24 +324,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="jyocoin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jyocoin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jyocoin2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jyocoin2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="jyocoin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jyocoin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jyocoin2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jyocoin2" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,44 +378,34 @@
       <workItem from="1531133690054" duration="219000" />
       <workItem from="1531141199148" duration="906000" />
       <workItem from="1531204859767" duration="155000" />
+      <workItem from="1531982737871" duration="1456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6056000" />
+    <option name="totallyTimeSpent" value="7512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1602" height="873" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26131955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21927555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4008208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2160414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,13 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/external/rocksdb/third-party/fbson/FbsonJsonParser.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-603">
-          <caret line="441" column="22" lean-forward="false" selection-start-line="441" selection-start-column="14" selection-end-line="441" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/external/rocksdb/third-party/fbson/FbsonJsonParser.h" />
     <entry file="file://$PROJECT_DIR$/src/PaymentGate/WalletService.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -467,27 +602,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/BlockchainCache.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
-          <caret line="462" column="0" lean-forward="false" selection-start-line="462" selection-start-column="0" selection-end-line="462" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/BlockchainCache.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/CachedBlock.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3339">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/BlockchainCache.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/BlockchainCache.h" />
+    <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/CachedBlock.cpp" />
     <entry file="file://$PROJECT_DIR$/src/CryptoNoteCore/Core.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4683">
@@ -633,7 +750,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P2p/P2pNetworks.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="609">
           <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding />
         </state>
@@ -641,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CryptoNoteConfig.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="99" column="66" lean-forward="false" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="66" />
+        <state relative-caret-position="173">
+          <caret line="96" column="134" lean-forward="false" selection-start-line="96" selection-start-column="134" selection-end-line="96" selection-end-column="134" />
           <folding />
         </state>
       </provider>

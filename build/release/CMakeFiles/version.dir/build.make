@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /var/www/html/jyocoin
+CMAKE_SOURCE_DIR = /var/www/html/jyocoin2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /var/www/html/jyocoin/build/release
+CMAKE_BINARY_DIR = /var/www/html/jyocoin2/build/release
 
 # Utility rule file for version.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /var/www/html/jyocoin/build/release
 include CMakeFiles/version.dir/progress.make
 
 CMakeFiles/version:
-	cd /var/www/html/jyocoin && /usr/bin/cmake -D VERSION= -D GIT=/usr/bin/git -D TO=/var/www/html/jyocoin/build/release/version/version.h -P /var/www/html/jyocoin/src/version.cmake
+	cd /var/www/html/jyocoin2 && /usr/bin/cmake -D VERSION= -D GIT=/usr/bin/git -D TO=/var/www/html/jyocoin2/build/release/version/version.h -P /var/www/html/jyocoin2/src/version.cmake
 
 version: CMakeFiles/version
 version: CMakeFiles/version.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/version.dir/clean:
 .PHONY : CMakeFiles/version.dir/clean
 
 CMakeFiles/version.dir/depend:
-	cd /var/www/html/jyocoin/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin /var/www/html/jyocoin /var/www/html/jyocoin/build/release /var/www/html/jyocoin/build/release /var/www/html/jyocoin/build/release/CMakeFiles/version.dir/DependInfo.cmake --color=$(COLOR)
+	cd /var/www/html/jyocoin2/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin2 /var/www/html/jyocoin2 /var/www/html/jyocoin2/build/release /var/www/html/jyocoin2/build/release /var/www/html/jyocoin2/build/release/CMakeFiles/version.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/version.dir/depend
 

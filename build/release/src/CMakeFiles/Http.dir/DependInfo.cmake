@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/src/HTTP/HttpParser.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o"
-  "/var/www/html/jyocoin/src/HTTP/HttpParserErrorCodes.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o"
-  "/var/www/html/jyocoin/src/HTTP/HttpRequest.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o"
-  "/var/www/html/jyocoin/src/HTTP/HttpResponse.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o"
+  "/var/www/html/jyocoin2/src/HTTP/HttpParser.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o"
+  "/var/www/html/jyocoin2/src/HTTP/HttpParserErrorCodes.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o"
+  "/var/www/html/jyocoin2/src/HTTP/HttpRequest.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o"
+  "/var/www/html/jyocoin2/src/HTTP/HttpResponse.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

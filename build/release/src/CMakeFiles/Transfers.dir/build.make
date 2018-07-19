@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /var/www/html/jyocoin
+CMAKE_SOURCE_DIR = /var/www/html/jyocoin2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /var/www/html/jyocoin/build/release
+CMAKE_BINARY_DIR = /var/www/html/jyocoin2/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/Transfers.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/Transfers.dir/flags.make
 
 src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o: src/CMakeFiles/Transfers.dir/flags.make
 src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o: ../../src/Transfers/SynchronizationState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o -c /var/www/html/jyocoin/src/Transfers/SynchronizationState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o -c /var/www/html/jyocoin2/src/Transfers/SynchronizationState.cpp
 
 src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Transfers/SynchronizationState.cpp > CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Transfers/SynchronizationState.cpp > CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.i
 
 src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Transfers/SynchronizationState.cpp -o CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Transfers/SynchronizationState.cpp -o CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.s
 
 src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o.provides.build
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o: src/CMakeFiles/Transfers.dir/flags.make
 src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o: ../../src/Transfers/TransfersConsumer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o -c /var/www/html/jyocoin/src/Transfers/TransfersConsumer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o -c /var/www/html/jyocoin2/src/Transfers/TransfersConsumer.cpp
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Transfers/TransfersConsumer.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Transfers/TransfersConsumer.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.i
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Transfers/TransfersConsumer.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Transfers/TransfersConsumer.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.s
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o.provides.build: s
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o: src/CMakeFiles/Transfers.dir/flags.make
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o: ../../src/Transfers/TransfersSubscription.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o -c /var/www/html/jyocoin/src/Transfers/TransfersSubscription.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o -c /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.cpp
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Transfers/TransfersSubscription.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.i
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Transfers/TransfersSubscription.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Transfers/TransfersSubscription.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.s
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o.provides.buil
 
 src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o: src/CMakeFiles/Transfers.dir/flags.make
 src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o: ../../src/Transfers/BlockchainSynchronizer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o -c /var/www/html/jyocoin/src/Transfers/BlockchainSynchronizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o -c /var/www/html/jyocoin2/src/Transfers/BlockchainSynchronizer.cpp
 
 src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Transfers/BlockchainSynchronizer.cpp > CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Transfers/BlockchainSynchronizer.cpp > CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.i
 
 src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Transfers/BlockchainSynchronizer.cpp -o CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Transfers/BlockchainSynchronizer.cpp -o CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.s
 
 src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o.requires:
 
@@ -155,16 +155,16 @@ src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o.provides.bui
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o: src/CMakeFiles/Transfers.dir/flags.make
 src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o: ../../src/Transfers/TransfersContainer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o -c /var/www/html/jyocoin/src/Transfers/TransfersContainer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o -c /var/www/html/jyocoin2/src/Transfers/TransfersContainer.cpp
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Transfers/TransfersContainer.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Transfers/TransfersContainer.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.i
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Transfers/TransfersContainer.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Transfers/TransfersContainer.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.s
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o.requires:
 
@@ -179,16 +179,16 @@ src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o.provides.build: 
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o: src/CMakeFiles/Transfers.dir/flags.make
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o: ../../src/Transfers/TransfersSynchronizer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o -c /var/www/html/jyocoin/src/Transfers/TransfersSynchronizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o -c /var/www/html/jyocoin2/src/Transfers/TransfersSynchronizer.cpp
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Transfers/TransfersSynchronizer.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Transfers/TransfersSynchronizer.cpp > CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.i
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Transfers/TransfersSynchronizer.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Transfers/TransfersSynchronizer.cpp -o CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.s
 
 src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o.requires:
 
@@ -221,9 +221,9 @@ src/libTransfers.a: src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cp
 src/libTransfers.a: src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o
 src/libTransfers.a: src/CMakeFiles/Transfers.dir/build.make
 src/libTransfers.a: src/CMakeFiles/Transfers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library libTransfers.a"
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Transfers.dir/cmake_clean_target.cmake
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Transfers.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library libTransfers.a"
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Transfers.dir/cmake_clean_target.cmake
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Transfers.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/Transfers.dir/build: src/libTransfers.a
@@ -240,10 +240,10 @@ src/CMakeFiles/Transfers.dir/requires: src/CMakeFiles/Transfers.dir/Transfers/Tr
 .PHONY : src/CMakeFiles/Transfers.dir/requires
 
 src/CMakeFiles/Transfers.dir/clean:
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Transfers.dir/cmake_clean.cmake
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Transfers.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/Transfers.dir/clean
 
 src/CMakeFiles/Transfers.dir/depend:
-	cd /var/www/html/jyocoin/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin /var/www/html/jyocoin/src /var/www/html/jyocoin/build/release /var/www/html/jyocoin/build/release/src /var/www/html/jyocoin/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake --color=$(COLOR)
+	cd /var/www/html/jyocoin2/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin2 /var/www/html/jyocoin2/src /var/www/html/jyocoin2/build/release /var/www/html/jyocoin2/build/release/src /var/www/html/jyocoin2/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/Transfers.dir/depend
 

@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/src/Serialization/BinaryInputStreamSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/BinaryOutputStreamSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/JsonInputStreamSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/JsonInputValueSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/JsonOutputStreamSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/KVBinaryInputStreamSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/KVBinaryOutputStreamSerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/MemoryStream.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o"
-  "/var/www/html/jyocoin/src/Serialization/SerializationOverloads.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/BinaryInputStreamSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/BinaryOutputStreamSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/JsonInputStreamSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/JsonInputValueSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/JsonOutputStreamSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/KVBinaryInputStreamSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/KVBinaryOutputStreamSerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/MemoryStream.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o"
+  "/var/www/html/jyocoin2/src/Serialization/SerializationOverloads.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

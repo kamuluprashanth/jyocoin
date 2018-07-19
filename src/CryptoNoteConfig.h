@@ -94,7 +94,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "jyocoin";
-const char     GENESIS_COINBASE_TX_HEX[]		     	= "010a01ff0001fac484c69cd608029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210146182664042dfbb5eec7f32d353a128ecf4668b05e0247e7e7c1e7f39861fd3d";
+const char     GENESIS_COINBASE_TX_HEX[]		     	= "010a01ff0001fac484c69cd608029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101993fc46b1bdf8b71d757cfc91fbad51b01b938fe2fcf498f3cf1e1baccafecee";
 
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;

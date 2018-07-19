@@ -538,11 +538,11 @@ hash-ops.h
 stddef.h
 -
 
-/var/www/html/jyocoin/src/Miner/BlockchainMonitor.cpp
+/var/www/html/jyocoin2/src/Miner/BlockchainMonitor.cpp
 BlockchainMonitor.h
-/var/www/html/jyocoin/src/Miner/BlockchainMonitor.h
+/var/www/html/jyocoin2/src/Miner/BlockchainMonitor.h
 Common/StringTools.h
-/var/www/html/jyocoin/src/Miner/Common/StringTools.h
+/var/www/html/jyocoin2/src/Miner/Common/StringTools.h
 System/EventLock.h
 -
 System/Timer.h
@@ -550,15 +550,15 @@ System/Timer.h
 System/InterruptedException.h
 -
 Rpc/CoreRpcServerCommandsDefinitions.h
-/var/www/html/jyocoin/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
+/var/www/html/jyocoin2/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/JsonRpc.h
-/var/www/html/jyocoin/src/Miner/Rpc/JsonRpc.h
+/var/www/html/jyocoin2/src/Miner/Rpc/JsonRpc.h
 Rpc/HttpClient.h
-/var/www/html/jyocoin/src/Miner/Rpc/HttpClient.h
+/var/www/html/jyocoin2/src/Miner/Rpc/HttpClient.h
 
-/var/www/html/jyocoin/src/Miner/BlockchainMonitor.h
+/var/www/html/jyocoin2/src/Miner/BlockchainMonitor.h
 CryptoTypes.h
-/var/www/html/jyocoin/src/Miner/CryptoTypes.h
+/var/www/html/jyocoin2/src/Miner/CryptoTypes.h
 System/ContextGroup.h
 -
 System/Dispatcher.h
@@ -566,21 +566,21 @@ System/Dispatcher.h
 System/Event.h
 -
 Logging/LoggerRef.h
-/var/www/html/jyocoin/src/Miner/Logging/LoggerRef.h
+/var/www/html/jyocoin2/src/Miner/Logging/LoggerRef.h
 
-/var/www/html/jyocoin/src/Miner/Miner.cpp
+/var/www/html/jyocoin2/src/Miner/Miner.cpp
 Miner.h
-/var/www/html/jyocoin/src/Miner/Miner.h
+/var/www/html/jyocoin2/src/Miner/Miner.h
 functional
 -
 crypto/crypto.h
-/var/www/html/jyocoin/src/Miner/crypto/crypto.h
+/var/www/html/jyocoin2/src/Miner/crypto/crypto.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
 System/InterruptedException.h
 -
 
-/var/www/html/jyocoin/src/Miner/Miner.h
+/var/www/html/jyocoin2/src/Miner/Miner.h
 atomic
 -
 thread
@@ -592,17 +592,17 @@ System/Event.h
 System/RemoteContext.h
 -
 CryptoNote.h
-/var/www/html/jyocoin/src/Miner/CryptoNote.h
+/var/www/html/jyocoin2/src/Miner/CryptoNote.h
 CryptoNoteCore/Difficulty.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteCore/Difficulty.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteCore/Difficulty.h
 Logging/LoggerRef.h
-/var/www/html/jyocoin/src/Miner/Logging/LoggerRef.h
+/var/www/html/jyocoin2/src/Miner/Logging/LoggerRef.h
 
-/var/www/html/jyocoin/src/Miner/MinerEvent.h
+/var/www/html/jyocoin2/src/Miner/MinerEvent.h
 
-/var/www/html/jyocoin/src/Miner/MinerManager.cpp
+/var/www/html/jyocoin2/src/Miner/MinerManager.cpp
 MinerManager.h
-/var/www/html/jyocoin/src/Miner/MinerManager.h
+/var/www/html/jyocoin2/src/Miner/MinerManager.h
 System/EventLock.h
 -
 System/InterruptedException.h
@@ -610,23 +610,23 @@ System/InterruptedException.h
 System/Timer.h
 -
 Common/StringTools.h
-/var/www/html/jyocoin/src/Miner/Common/StringTools.h
+/var/www/html/jyocoin2/src/Miner/Common/StringTools.h
 CryptoNoteConfig.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteConfig.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteConfig.h
 CryptoNoteCore/CryptoNoteTools.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteCore/CryptoNoteTools.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteCore/CryptoNoteTools.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/TransactionExtra.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteCore/TransactionExtra.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteCore/TransactionExtra.h
 Rpc/HttpClient.h
-/var/www/html/jyocoin/src/Miner/Rpc/HttpClient.h
+/var/www/html/jyocoin2/src/Miner/Rpc/HttpClient.h
 Rpc/CoreRpcServerCommandsDefinitions.h
-/var/www/html/jyocoin/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
+/var/www/html/jyocoin2/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/JsonRpc.h
-/var/www/html/jyocoin/src/Miner/Rpc/JsonRpc.h
+/var/www/html/jyocoin2/src/Miner/Rpc/JsonRpc.h
 
-/var/www/html/jyocoin/src/Miner/MinerManager.h
+/var/www/html/jyocoin2/src/Miner/MinerManager.h
 queue
 -
 System/ContextGroup.h
@@ -634,19 +634,19 @@ System/ContextGroup.h
 System/Event.h
 -
 BlockchainMonitor.h
-/var/www/html/jyocoin/src/Miner/BlockchainMonitor.h
+/var/www/html/jyocoin2/src/Miner/BlockchainMonitor.h
 Logging/LoggerRef.h
-/var/www/html/jyocoin/src/Miner/Logging/LoggerRef.h
+/var/www/html/jyocoin2/src/Miner/Logging/LoggerRef.h
 Miner.h
-/var/www/html/jyocoin/src/Miner/Miner.h
+/var/www/html/jyocoin2/src/Miner/Miner.h
 MinerEvent.h
-/var/www/html/jyocoin/src/Miner/MinerEvent.h
+/var/www/html/jyocoin2/src/Miner/MinerEvent.h
 MiningConfig.h
-/var/www/html/jyocoin/src/Miner/MiningConfig.h
+/var/www/html/jyocoin2/src/Miner/MiningConfig.h
 
-/var/www/html/jyocoin/src/Miner/MiningConfig.cpp
+/var/www/html/jyocoin2/src/Miner/MiningConfig.cpp
 MiningConfig.h
-/var/www/html/jyocoin/src/Miner/MiningConfig.h
+/var/www/html/jyocoin2/src/Miner/MiningConfig.h
 iostream
 -
 thread
@@ -660,27 +660,27 @@ boost/lexical_cast.hpp
 boost/program_options.hpp
 -
 CryptoNoteConfig.h
-/var/www/html/jyocoin/src/Miner/CryptoNoteConfig.h
+/var/www/html/jyocoin2/src/Miner/CryptoNoteConfig.h
 Logging/ILogger.h
-/var/www/html/jyocoin/src/Miner/Logging/ILogger.h
+/var/www/html/jyocoin2/src/Miner/Logging/ILogger.h
 
-/var/www/html/jyocoin/src/Miner/MiningConfig.h
+/var/www/html/jyocoin2/src/Miner/MiningConfig.h
 cstdint
 -
 string
 -
 
-/var/www/html/jyocoin/src/Miner/main.cpp
+/var/www/html/jyocoin2/src/Miner/main.cpp
 Common/SignalHandler.h
-/var/www/html/jyocoin/src/Miner/Common/SignalHandler.h
+/var/www/html/jyocoin2/src/Miner/Common/SignalHandler.h
 Logging/LoggerGroup.h
-/var/www/html/jyocoin/src/Miner/Logging/LoggerGroup.h
+/var/www/html/jyocoin2/src/Miner/Logging/LoggerGroup.h
 Logging/ConsoleLogger.h
-/var/www/html/jyocoin/src/Miner/Logging/ConsoleLogger.h
+/var/www/html/jyocoin2/src/Miner/Logging/ConsoleLogger.h
 Logging/LoggerRef.h
-/var/www/html/jyocoin/src/Miner/Logging/LoggerRef.h
+/var/www/html/jyocoin2/src/Miner/Logging/LoggerRef.h
 MinerManager.h
-/var/www/html/jyocoin/src/Miner/MinerManager.h
+/var/www/html/jyocoin2/src/Miner/MinerManager.h
 System/Dispatcher.h
 -
 

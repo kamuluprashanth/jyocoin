@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/external/gtest/src/gtest-all.cc" "/var/www/html/jyocoin/build/release/external/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+  "/var/www/html/jyocoin2/external/gtest/src/gtest-all.cc" "/var/www/html/jyocoin2/build/release/external/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

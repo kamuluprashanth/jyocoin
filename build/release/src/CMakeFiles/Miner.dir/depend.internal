@@ -49,8 +49,8 @@ src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Miner/BlockchainMonitor.cpp
- /var/www/html/jyocoin/src/Miner/BlockchainMonitor.h
+ /var/www/html/jyocoin2/src/Miner/BlockchainMonitor.cpp
+ /var/www/html/jyocoin2/src/Miner/BlockchainMonitor.h
 src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -82,8 +82,8 @@ src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Miner/Miner.cpp
- /var/www/html/jyocoin/src/Miner/Miner.h
+ /var/www/html/jyocoin2/src/Miner/Miner.cpp
+ /var/www/html/jyocoin2/src/Miner/Miner.h
 src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -141,17 +141,17 @@ src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Miner/BlockchainMonitor.h
- /var/www/html/jyocoin/src/Miner/Miner.h
- /var/www/html/jyocoin/src/Miner/MinerEvent.h
- /var/www/html/jyocoin/src/Miner/MinerManager.cpp
- /var/www/html/jyocoin/src/Miner/MinerManager.h
- /var/www/html/jyocoin/src/Miner/MiningConfig.h
+ /var/www/html/jyocoin2/src/Miner/BlockchainMonitor.h
+ /var/www/html/jyocoin2/src/Miner/Miner.h
+ /var/www/html/jyocoin2/src/Miner/MinerEvent.h
+ /var/www/html/jyocoin2/src/Miner/MinerManager.cpp
+ /var/www/html/jyocoin2/src/Miner/MinerManager.h
+ /var/www/html/jyocoin2/src/Miner/MiningConfig.h
 src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o
  ../../src/CryptoNoteConfig.h
  ../../src/Logging/ILogger.h
- /var/www/html/jyocoin/src/Miner/MiningConfig.cpp
- /var/www/html/jyocoin/src/Miner/MiningConfig.h
+ /var/www/html/jyocoin2/src/Miner/MiningConfig.cpp
+ /var/www/html/jyocoin2/src/Miner/MiningConfig.h
 src/CMakeFiles/Miner.dir/Miner/main.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -175,9 +175,9 @@ src/CMakeFiles/Miner.dir/Miner/main.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /var/www/html/jyocoin/src/Miner/BlockchainMonitor.h
- /var/www/html/jyocoin/src/Miner/Miner.h
- /var/www/html/jyocoin/src/Miner/MinerEvent.h
- /var/www/html/jyocoin/src/Miner/MinerManager.h
- /var/www/html/jyocoin/src/Miner/MiningConfig.h
- /var/www/html/jyocoin/src/Miner/main.cpp
+ /var/www/html/jyocoin2/src/Miner/BlockchainMonitor.h
+ /var/www/html/jyocoin2/src/Miner/Miner.h
+ /var/www/html/jyocoin2/src/Miner/MinerEvent.h
+ /var/www/html/jyocoin2/src/Miner/MinerManager.h
+ /var/www/html/jyocoin2/src/Miner/MiningConfig.h
+ /var/www/html/jyocoin2/src/Miner/main.cpp

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /var/www/html/jyocoin
+CMAKE_SOURCE_DIR = /var/www/html/jyocoin2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /var/www/html/jyocoin/build/release
+CMAKE_BINARY_DIR = /var/www/html/jyocoin2/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/CryptoNoteCore.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/CryptoNoteCore.dir/flags.make
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o: ../../src/CryptoNoteCore/Miner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Miner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Miner.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Miner.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Miner.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Miner.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Miner.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o.provides.build: src
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o: ../../src/CryptoNoteCore/CryptoNoteBasic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasic.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasic.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o.provides.
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o: ../../src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o.provi
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o: ../../src/CryptoNoteCore/Currency.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Currency.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Currency.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Currency.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Currency.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Currency.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Currency.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o.requires:
 
@@ -155,16 +155,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o.provides.build: 
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o: ../../src/CryptoNoteCore/ITimeProvider.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/ITimeProvider.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/ITimeProvider.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/ITimeProvider.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/ITimeProvider.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/ITimeProvider.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/ITimeProvider.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o.requires:
 
@@ -179,16 +179,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o.provides.bu
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o: ../../src/CryptoNoteCore/TransactionUtils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/TransactionUtils.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionUtils.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o.requires:
 
@@ -203,16 +203,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o.provides
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o: ../../src/CryptoNoteCore/Blockchain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Blockchain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Blockchain.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Blockchain.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Blockchain.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Blockchain.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Blockchain.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o.requires:
 
@@ -227,16 +227,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o.provides.build
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o: ../../src/CryptoNoteCore/SwappedVector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/SwappedVector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedVector.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/SwappedVector.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedVector.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/SwappedVector.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedVector.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o.requires:
 
@@ -251,16 +251,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o.provides.bu
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o: ../../src/CryptoNoteCore/Checkpoints.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Checkpoints.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Checkpoints.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Checkpoints.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Checkpoints.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Checkpoints.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Checkpoints.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o.requires:
 
@@ -275,16 +275,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o.provides.buil
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o: ../../src/CryptoNoteCore/Core.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Core.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Core.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Core.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Core.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Core.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Core.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o.requires:
 
@@ -299,16 +299,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o.provides.build: src/
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o: ../../src/CryptoNoteCore/TransactionPool.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPool.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPool.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPool.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPool.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPool.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o.requires:
 
@@ -323,16 +323,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o.provides.
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o: ../../src/CryptoNoteCore/CoreConfig.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/CoreConfig.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/CoreConfig.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/CoreConfig.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/CoreConfig.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/CoreConfig.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/CoreConfig.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o.requires:
 
@@ -347,16 +347,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o.provides.build
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o: ../../src/CryptoNoteCore/MinerConfig.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/MinerConfig.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/MinerConfig.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/MinerConfig.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/MinerConfig.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/MinerConfig.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/MinerConfig.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o.requires:
 
@@ -371,16 +371,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o.provides.buil
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o: ../../src/CryptoNoteCore/Account.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Account.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Account.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Account.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Account.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Account.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Account.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o.requires:
 
@@ -395,16 +395,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o.provides.build: s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o: ../../src/CryptoNoteCore/BlockchainIndices.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainIndices.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainIndices.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainIndices.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainIndices.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainIndices.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainIndices.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o.requires:
 
@@ -419,16 +419,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o.provide
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o: ../../src/CryptoNoteCore/TransactionExtra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/TransactionExtra.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionExtra.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o.requires:
 
@@ -443,16 +443,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o.provides
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o: ../../src/CryptoNoteCore/Difficulty.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Difficulty.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Difficulty.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o.requires:
 
@@ -467,16 +467,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o.provides.build
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o: ../../src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o.requires:
 
@@ -491,16 +491,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o.pro
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o: ../../src/CryptoNoteCore/CryptoNoteSerialization.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteSerialization.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteSerialization.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o.requires:
 
@@ -515,16 +515,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o.p
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o: ../../src/CryptoNoteCore/IBlock.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/IBlock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/IBlock.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/IBlock.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/IBlock.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/IBlock.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/IBlock.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o.requires:
 
@@ -539,16 +539,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o.provides.build: sr
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o: ../../src/CryptoNoteCore/BlockIndex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/BlockIndex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/BlockIndex.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/BlockIndex.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/BlockIndex.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/BlockIndex.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/BlockIndex.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o.requires:
 
@@ -563,16 +563,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o.provides.build
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o: ../../src/CryptoNoteCore/SwappedMap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/SwappedMap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedMap.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/SwappedMap.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedMap.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/SwappedMap.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/SwappedMap.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o.requires:
 
@@ -587,16 +587,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o.provides.build
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o: ../../src/CryptoNoteCore/TransactionPrefixImpl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPrefixImpl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPrefixImpl.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPrefixImpl.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPrefixImpl.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/TransactionPrefixImpl.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/TransactionPrefixImpl.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o.requires:
 
@@ -611,16 +611,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o.pro
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o: ../../src/CryptoNoteCore/Transaction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/Transaction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/Transaction.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/Transaction.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/Transaction.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/Transaction.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/Transaction.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o.requires:
 
@@ -635,16 +635,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o.provides.buil
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o: ../../src/CryptoNoteCore/CryptoNoteTools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/CryptoNoteTools.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/CryptoNoteTools.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o.requires:
 
@@ -659,16 +659,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o.provides.
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o: ../../src/CryptoNoteCore/BlockchainMessages.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainMessages.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainMessages.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainMessages.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainMessages.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/BlockchainMessages.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/BlockchainMessages.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o.requires:
 
@@ -683,16 +683,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o.provid
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o: src/CMakeFiles/CryptoNoteCore.dir/flags.make
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o: ../../src/CryptoNoteCore/UpgradeDetector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o -c /var/www/html/jyocoin/src/CryptoNoteCore/UpgradeDetector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o -c /var/www/html/jyocoin2/src/CryptoNoteCore/UpgradeDetector.cpp
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/CryptoNoteCore/UpgradeDetector.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/CryptoNoteCore/UpgradeDetector.cpp > CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.i
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/CryptoNoteCore/UpgradeDetector.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/CryptoNoteCore/UpgradeDetector.cpp -o CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.s
 
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o.requires:
 
@@ -767,9 +767,9 @@ src/libCryptoNoteCore.a: src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockc
 src/libCryptoNoteCore.a: src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o
 src/libCryptoNoteCore.a: src/CMakeFiles/CryptoNoteCore.dir/build.make
 src/libCryptoNoteCore.a: src/CMakeFiles/CryptoNoteCore.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX static library libCryptoNoteCore.a"
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/CryptoNoteCore.dir/cmake_clean_target.cmake
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CryptoNoteCore.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX static library libCryptoNoteCore.a"
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/CryptoNoteCore.dir/cmake_clean_target.cmake
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CryptoNoteCore.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/CryptoNoteCore.dir/build: src/libCryptoNoteCore.a
@@ -807,10 +807,10 @@ src/CMakeFiles/CryptoNoteCore.dir/requires: src/CMakeFiles/CryptoNoteCore.dir/Cr
 .PHONY : src/CMakeFiles/CryptoNoteCore.dir/requires
 
 src/CMakeFiles/CryptoNoteCore.dir/clean:
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/CryptoNoteCore.dir/cmake_clean.cmake
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/CryptoNoteCore.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/CryptoNoteCore.dir/clean
 
 src/CMakeFiles/CryptoNoteCore.dir/depend:
-	cd /var/www/html/jyocoin/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin /var/www/html/jyocoin/src /var/www/html/jyocoin/build/release /var/www/html/jyocoin/build/release/src /var/www/html/jyocoin/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake --color=$(COLOR)
+	cd /var/www/html/jyocoin2/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin2 /var/www/html/jyocoin2/src /var/www/html/jyocoin2/build/release /var/www/html/jyocoin2/build/release/src /var/www/html/jyocoin2/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/CryptoNoteCore.dir/depend
 

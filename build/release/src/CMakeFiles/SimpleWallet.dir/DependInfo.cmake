@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/src/SimpleWallet/PasswordContainer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/PasswordContainer.cpp.o"
-  "/var/www/html/jyocoin/src/SimpleWallet/SimpleWallet.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/SimpleWallet.cpp.o"
+  "/var/www/html/jyocoin2/src/SimpleWallet/PasswordContainer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/PasswordContainer.cpp.o"
+  "/var/www/html/jyocoin2/src/SimpleWallet/SimpleWallet.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/SimpleWallet.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -27,18 +27,18 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
-  "/var/www/html/jyocoin/build/release/src/CMakeFiles/Mnemonics.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Mnemonics.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

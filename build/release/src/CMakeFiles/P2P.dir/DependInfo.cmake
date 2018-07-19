@@ -4,18 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/IP2pNodeInternal.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/LevinProtocol.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/NetNode.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/NetNodeConfig.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/P2pConnectionProxy.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/P2pContext.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/P2pContextOwner.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/P2pInterfaces.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/P2pNode.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/P2pNodeConfig.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o"
-  "/var/www/html/jyocoin/src/P2p/PeerListManager.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o"
+  "/var/www/html/jyocoin2/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/IP2pNodeInternal.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/LevinProtocol.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/NetNode.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/NetNodeConfig.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/P2pConnectionProxy.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/P2pContext.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/P2pContextOwner.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/P2pInterfaces.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/P2pNode.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/P2pNodeConfig.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o"
+  "/var/www/html/jyocoin2/src/P2p/PeerListManager.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

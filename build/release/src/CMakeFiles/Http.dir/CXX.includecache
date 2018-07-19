@@ -20,15 +20,15 @@ climits
 cerrno
 -
 
-/var/www/html/jyocoin/src/HTTP/HttpParser.cpp
+/var/www/html/jyocoin2/src/HTTP/HttpParser.cpp
 HttpParser.h
-/var/www/html/jyocoin/src/HTTP/HttpParser.h
+/var/www/html/jyocoin2/src/HTTP/HttpParser.h
 algorithm
 -
 HttpParserErrorCodes.h
-/var/www/html/jyocoin/src/HTTP/HttpParserErrorCodes.h
+/var/www/html/jyocoin2/src/HTTP/HttpParserErrorCodes.h
 
-/var/www/html/jyocoin/src/HTTP/HttpParser.h
+/var/www/html/jyocoin2/src/HTTP/HttpParser.h
 iostream
 -
 map
@@ -36,25 +36,25 @@ map
 string
 -
 HttpRequest.h
-/var/www/html/jyocoin/src/HTTP/HttpRequest.h
+/var/www/html/jyocoin2/src/HTTP/HttpRequest.h
 HttpResponse.h
-/var/www/html/jyocoin/src/HTTP/HttpResponse.h
+/var/www/html/jyocoin2/src/HTTP/HttpResponse.h
 
-/var/www/html/jyocoin/src/HTTP/HttpParserErrorCodes.cpp
+/var/www/html/jyocoin2/src/HTTP/HttpParserErrorCodes.cpp
 HttpParserErrorCodes.h
-/var/www/html/jyocoin/src/HTTP/HttpParserErrorCodes.h
+/var/www/html/jyocoin2/src/HTTP/HttpParserErrorCodes.h
 
-/var/www/html/jyocoin/src/HTTP/HttpParserErrorCodes.h
+/var/www/html/jyocoin2/src/HTTP/HttpParserErrorCodes.h
 string
 -
 system_error
 -
 
-/var/www/html/jyocoin/src/HTTP/HttpRequest.cpp
+/var/www/html/jyocoin2/src/HTTP/HttpRequest.cpp
 HttpRequest.h
-/var/www/html/jyocoin/src/HTTP/HttpRequest.h
+/var/www/html/jyocoin2/src/HTTP/HttpRequest.h
 
-/var/www/html/jyocoin/src/HTTP/HttpRequest.h
+/var/www/html/jyocoin2/src/HTTP/HttpRequest.h
 iostream
 -
 map
@@ -62,15 +62,15 @@ map
 string
 -
 android.h
-/var/www/html/jyocoin/src/HTTP/android.h
+/var/www/html/jyocoin2/src/HTTP/android.h
 
-/var/www/html/jyocoin/src/HTTP/HttpResponse.cpp
+/var/www/html/jyocoin2/src/HTTP/HttpResponse.cpp
 HttpResponse.h
-/var/www/html/jyocoin/src/HTTP/HttpResponse.h
+/var/www/html/jyocoin2/src/HTTP/HttpResponse.h
 stdexcept
 -
 
-/var/www/html/jyocoin/src/HTTP/HttpResponse.h
+/var/www/html/jyocoin2/src/HTTP/HttpResponse.h
 ostream
 -
 string
@@ -78,5 +78,5 @@ string
 map
 -
 android.h
-/var/www/html/jyocoin/src/HTTP/android.h
+/var/www/html/jyocoin2/src/HTTP/android.h
 

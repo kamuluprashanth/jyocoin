@@ -48,9 +48,9 @@ src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/InProcessNode/InProcessNode.cpp
- /var/www/html/jyocoin/src/InProcessNode/InProcessNode.h
- /var/www/html/jyocoin/src/InProcessNode/InProcessNodeErrors.h
+ /var/www/html/jyocoin2/src/InProcessNode/InProcessNode.cpp
+ /var/www/html/jyocoin2/src/InProcessNode/InProcessNode.h
+ /var/www/html/jyocoin2/src/InProcessNode/InProcessNodeErrors.h
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o
- /var/www/html/jyocoin/src/InProcessNode/InProcessNodeErrors.cpp
- /var/www/html/jyocoin/src/InProcessNode/InProcessNodeErrors.h
+ /var/www/html/jyocoin2/src/InProcessNode/InProcessNodeErrors.cpp
+ /var/www/html/jyocoin2/src/InProcessNode/InProcessNodeErrors.h

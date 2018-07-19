@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/external/gtest/src/gtest_main.cc" "/var/www/html/jyocoin/build/release/external/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+  "/var/www/html/jyocoin2/external/gtest/src/gtest_main.cc" "/var/www/html/jyocoin2/build/release/external/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -22,7 +22,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/var/www/html/jyocoin/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/var/www/html/jyocoin2/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

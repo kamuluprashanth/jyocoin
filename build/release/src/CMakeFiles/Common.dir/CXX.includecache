@@ -90,9 +90,9 @@ generic-ops.h
 hash-ops.h
 ../../src/crypto/hash-ops.h
 
-/var/www/html/jyocoin/src/Common/Base58.cpp
+/var/www/html/jyocoin2/src/Common/Base58.cpp
 Base58.h
-/var/www/html/jyocoin/src/Common/Base58.h
+/var/www/html/jyocoin2/src/Common/Base58.h
 assert.h
 -
 string
@@ -100,23 +100,23 @@ string
 vector
 -
 crypto/hash.h
-/var/www/html/jyocoin/src/Common/crypto/hash.h
+/var/www/html/jyocoin2/src/Common/crypto/hash.h
 int-util.h
-/var/www/html/jyocoin/src/Common/int-util.h
+/var/www/html/jyocoin2/src/Common/int-util.h
 Varint.h
-/var/www/html/jyocoin/src/Common/Varint.h
+/var/www/html/jyocoin2/src/Common/Varint.h
 
-/var/www/html/jyocoin/src/Common/Base58.h
+/var/www/html/jyocoin2/src/Common/Base58.h
 cstdint
 -
 string
 -
 
-/var/www/html/jyocoin/src/Common/BlockingQueue.cpp
+/var/www/html/jyocoin2/src/Common/BlockingQueue.cpp
 BlockingQueue.h
-/var/www/html/jyocoin/src/Common/BlockingQueue.h
+/var/www/html/jyocoin2/src/Common/BlockingQueue.h
 
-/var/www/html/jyocoin/src/Common/BlockingQueue.h
+/var/www/html/jyocoin2/src/Common/BlockingQueue.h
 atomic
 -
 condition_variable
@@ -128,11 +128,11 @@ mutex
 thread
 -
 
-/var/www/html/jyocoin/src/Common/CommandLine.cpp
+/var/www/html/jyocoin2/src/Common/CommandLine.cpp
 CommandLine.h
-/var/www/html/jyocoin/src/Common/CommandLine.h
+/var/www/html/jyocoin2/src/Common/CommandLine.h
 
-/var/www/html/jyocoin/src/Common/CommandLine.h
+/var/www/html/jyocoin2/src/Common/CommandLine.h
 iostream
 -
 type_traits
@@ -144,9 +144,9 @@ boost/program_options/options_description.hpp
 boost/program_options/variables_map.hpp
 -
 
-/var/www/html/jyocoin/src/Common/ConsoleHandler.cpp
+/var/www/html/jyocoin2/src/Common/ConsoleHandler.cpp
 ConsoleHandler.h
-/var/www/html/jyocoin/src/Common/ConsoleHandler.h
+/var/www/html/jyocoin2/src/Common/ConsoleHandler.h
 iostream
 -
 iomanip
@@ -162,7 +162,7 @@ stdio.h
 boost/algorithm/string.hpp
 -
 
-/var/www/html/jyocoin/src/Common/ConsoleHandler.h
+/var/www/html/jyocoin2/src/Common/ConsoleHandler.h
 atomic
 -
 functional
@@ -176,13 +176,13 @@ thread
 vector
 -
 BlockingQueue.h
-/var/www/html/jyocoin/src/Common/BlockingQueue.h
+/var/www/html/jyocoin2/src/Common/BlockingQueue.h
 ConsoleTools.h
-/var/www/html/jyocoin/src/Common/ConsoleTools.h
+/var/www/html/jyocoin2/src/Common/ConsoleTools.h
 
-/var/www/html/jyocoin/src/Common/ConsoleTools.cpp
+/var/www/html/jyocoin2/src/Common/ConsoleTools.cpp
 ConsoleTools.h
-/var/www/html/jyocoin/src/Common/ConsoleTools.h
+/var/www/html/jyocoin2/src/Common/ConsoleTools.h
 stdio.h
 -
 Windows.h
@@ -194,15 +194,15 @@ iostream
 unistd.h
 -
 
-/var/www/html/jyocoin/src/Common/ConsoleTools.h
+/var/www/html/jyocoin2/src/Common/ConsoleTools.h
 cstdint
 -
 
-/var/www/html/jyocoin/src/Common/FileMappedVector.cpp
+/var/www/html/jyocoin2/src/Common/FileMappedVector.cpp
 FileMappedVector.h
-/var/www/html/jyocoin/src/Common/FileMappedVector.h
+/var/www/html/jyocoin2/src/Common/FileMappedVector.h
 
-/var/www/html/jyocoin/src/Common/FileMappedVector.h
+/var/www/html/jyocoin2/src/Common/FileMappedVector.h
 cassert
 -
 cstdint
@@ -212,37 +212,37 @@ string
 boost/filesystem.hpp
 -
 android.h
-/var/www/html/jyocoin/src/Common/android.h
+/var/www/html/jyocoin2/src/Common/android.h
 System/MemoryMappedFile.h
-/var/www/html/jyocoin/src/Common/System/MemoryMappedFile.h
+/var/www/html/jyocoin2/src/Common/System/MemoryMappedFile.h
 Common/ScopeExit.h
-/var/www/html/jyocoin/src/Common/Common/ScopeExit.h
+/var/www/html/jyocoin2/src/Common/Common/ScopeExit.h
 
-/var/www/html/jyocoin/src/Common/IInputStream.cpp
+/var/www/html/jyocoin2/src/Common/IInputStream.cpp
 IInputStream.h
-/var/www/html/jyocoin/src/Common/IInputStream.h
+/var/www/html/jyocoin2/src/Common/IInputStream.h
 
-/var/www/html/jyocoin/src/Common/IInputStream.h
+/var/www/html/jyocoin2/src/Common/IInputStream.h
 cstddef
 -
 
-/var/www/html/jyocoin/src/Common/IOutputStream.cpp
+/var/www/html/jyocoin2/src/Common/IOutputStream.cpp
 IOutputStream.h
-/var/www/html/jyocoin/src/Common/IOutputStream.h
+/var/www/html/jyocoin2/src/Common/IOutputStream.h
 
-/var/www/html/jyocoin/src/Common/IOutputStream.h
+/var/www/html/jyocoin2/src/Common/IOutputStream.h
 cstddef
 -
 
-/var/www/html/jyocoin/src/Common/JsonValue.cpp
+/var/www/html/jyocoin2/src/Common/JsonValue.cpp
 JsonValue.h
-/var/www/html/jyocoin/src/Common/JsonValue.h
+/var/www/html/jyocoin2/src/Common/JsonValue.h
 iomanip
 -
 sstream
 -
 
-/var/www/html/jyocoin/src/Common/JsonValue.h
+/var/www/html/jyocoin2/src/Common/JsonValue.h
 cstddef
 -
 cstdint
@@ -254,19 +254,19 @@ string
 vector
 -
 
-/var/www/html/jyocoin/src/Common/Math.cpp
+/var/www/html/jyocoin2/src/Common/Math.cpp
 Math.h
-/var/www/html/jyocoin/src/Common/Math.h
+/var/www/html/jyocoin2/src/Common/Math.h
 
-/var/www/html/jyocoin/src/Common/Math.h
+/var/www/html/jyocoin2/src/Common/Math.h
 algorithm
 -
 vector
 -
 
-/var/www/html/jyocoin/src/Common/MemoryInputStream.cpp
+/var/www/html/jyocoin2/src/Common/MemoryInputStream.cpp
 MemoryInputStream.h
-/var/www/html/jyocoin/src/Common/MemoryInputStream.h
+/var/www/html/jyocoin2/src/Common/MemoryInputStream.h
 algorithm
 -
 cassert
@@ -274,31 +274,31 @@ cassert
 cstring
 -
 
-/var/www/html/jyocoin/src/Common/MemoryInputStream.h
+/var/www/html/jyocoin2/src/Common/MemoryInputStream.h
 IInputStream.h
-/var/www/html/jyocoin/src/Common/IInputStream.h
+/var/www/html/jyocoin2/src/Common/IInputStream.h
 
-/var/www/html/jyocoin/src/Common/PathTools.cpp
+/var/www/html/jyocoin2/src/Common/PathTools.cpp
 PathTools.h
-/var/www/html/jyocoin/src/Common/PathTools.h
+/var/www/html/jyocoin2/src/Common/PathTools.h
 algorithm
 -
 
-/var/www/html/jyocoin/src/Common/PathTools.h
+/var/www/html/jyocoin2/src/Common/PathTools.h
 string
 -
 
-/var/www/html/jyocoin/src/Common/ScopeExit.cpp
+/var/www/html/jyocoin2/src/Common/ScopeExit.cpp
 ScopeExit.h
-/var/www/html/jyocoin/src/Common/ScopeExit.h
+/var/www/html/jyocoin2/src/Common/ScopeExit.h
 
-/var/www/html/jyocoin/src/Common/ScopeExit.h
+/var/www/html/jyocoin2/src/Common/ScopeExit.h
 functional
 -
 
-/var/www/html/jyocoin/src/Common/SignalHandler.cpp
+/var/www/html/jyocoin2/src/Common/SignalHandler.cpp
 SignalHandler.h
-/var/www/html/jyocoin/src/Common/SignalHandler.h
+/var/www/html/jyocoin2/src/Common/SignalHandler.h
 mutex
 -
 iostream
@@ -310,41 +310,41 @@ signal.h
 cstring
 -
 
-/var/www/html/jyocoin/src/Common/SignalHandler.h
+/var/www/html/jyocoin2/src/Common/SignalHandler.h
 functional
 -
 
-/var/www/html/jyocoin/src/Common/StdInputStream.cpp
+/var/www/html/jyocoin2/src/Common/StdInputStream.cpp
 StdInputStream.h
-/var/www/html/jyocoin/src/Common/StdInputStream.h
+/var/www/html/jyocoin2/src/Common/StdInputStream.h
 
-/var/www/html/jyocoin/src/Common/StdInputStream.h
+/var/www/html/jyocoin2/src/Common/StdInputStream.h
 istream
 -
 IInputStream.h
-/var/www/html/jyocoin/src/Common/IInputStream.h
+/var/www/html/jyocoin2/src/Common/IInputStream.h
 
-/var/www/html/jyocoin/src/Common/StdOutputStream.cpp
+/var/www/html/jyocoin2/src/Common/StdOutputStream.cpp
 StdOutputStream.h
-/var/www/html/jyocoin/src/Common/StdOutputStream.h
+/var/www/html/jyocoin2/src/Common/StdOutputStream.h
 
-/var/www/html/jyocoin/src/Common/StdOutputStream.h
+/var/www/html/jyocoin2/src/Common/StdOutputStream.h
 ostream
 -
 IOutputStream.h
-/var/www/html/jyocoin/src/Common/IOutputStream.h
+/var/www/html/jyocoin2/src/Common/IOutputStream.h
 
-/var/www/html/jyocoin/src/Common/StreamTools.cpp
+/var/www/html/jyocoin2/src/Common/StreamTools.cpp
 StreamTools.h
-/var/www/html/jyocoin/src/Common/StreamTools.h
+/var/www/html/jyocoin2/src/Common/StreamTools.h
 stdexcept
 -
 IInputStream.h
-/var/www/html/jyocoin/src/Common/IInputStream.h
+/var/www/html/jyocoin2/src/Common/IInputStream.h
 IOutputStream.h
-/var/www/html/jyocoin/src/Common/IOutputStream.h
+/var/www/html/jyocoin2/src/Common/IOutputStream.h
 
-/var/www/html/jyocoin/src/Common/StreamTools.h
+/var/www/html/jyocoin2/src/Common/StreamTools.h
 cstdint
 -
 ostream
@@ -354,37 +354,37 @@ vector
 string
 -
 
-/var/www/html/jyocoin/src/Common/StringInputStream.cpp
+/var/www/html/jyocoin2/src/Common/StringInputStream.cpp
 StringInputStream.h
-/var/www/html/jyocoin/src/Common/StringInputStream.h
+/var/www/html/jyocoin2/src/Common/StringInputStream.h
 string.h
 -
 
-/var/www/html/jyocoin/src/Common/StringInputStream.h
+/var/www/html/jyocoin2/src/Common/StringInputStream.h
 string
 -
 IInputStream.h
-/var/www/html/jyocoin/src/Common/IInputStream.h
+/var/www/html/jyocoin2/src/Common/IInputStream.h
 
-/var/www/html/jyocoin/src/Common/StringOutputStream.cpp
+/var/www/html/jyocoin2/src/Common/StringOutputStream.cpp
 StringOutputStream.h
-/var/www/html/jyocoin/src/Common/StringOutputStream.h
+/var/www/html/jyocoin2/src/Common/StringOutputStream.h
 
-/var/www/html/jyocoin/src/Common/StringOutputStream.h
+/var/www/html/jyocoin2/src/Common/StringOutputStream.h
 string
 -
 IOutputStream.h
-/var/www/html/jyocoin/src/Common/IOutputStream.h
+/var/www/html/jyocoin2/src/Common/IOutputStream.h
 
-/var/www/html/jyocoin/src/Common/StringTools.cpp
+/var/www/html/jyocoin2/src/Common/StringTools.cpp
 StringTools.h
-/var/www/html/jyocoin/src/Common/StringTools.h
+/var/www/html/jyocoin2/src/Common/StringTools.h
 fstream
 -
 iomanip
 -
 
-/var/www/html/jyocoin/src/Common/StringTools.h
+/var/www/html/jyocoin2/src/Common/StringTools.h
 cstdint
 -
 sstream
@@ -394,27 +394,27 @@ stdexcept
 vector
 -
 
-/var/www/html/jyocoin/src/Common/StringView.cpp
+/var/www/html/jyocoin2/src/Common/StringView.cpp
 StringView.h
-/var/www/html/jyocoin/src/Common/StringView.h
+/var/www/html/jyocoin2/src/Common/StringView.h
 limits
 -
 
-/var/www/html/jyocoin/src/Common/StringView.h
+/var/www/html/jyocoin2/src/Common/StringView.h
 cassert
 -
 string
 -
 
-/var/www/html/jyocoin/src/Common/Util.cpp
+/var/www/html/jyocoin2/src/Common/Util.cpp
 Util.h
-/var/www/html/jyocoin/src/Common/Util.h
+/var/www/html/jyocoin2/src/Common/Util.h
 cstdio
 -
 boost/filesystem.hpp
 -
 CryptoNoteConfig.h
-/var/www/html/jyocoin/src/Common/CryptoNoteConfig.h
+/var/www/html/jyocoin2/src/Common/CryptoNoteConfig.h
 windows.h
 -
 shlobj.h
@@ -424,13 +424,13 @@ strsafe.h
 sys/utsname.h
 -
 
-/var/www/html/jyocoin/src/Common/Util.h
+/var/www/html/jyocoin2/src/Common/Util.h
 string
 -
 system_error
 -
 
-/var/www/html/jyocoin/src/Common/Varint.h
+/var/www/html/jyocoin2/src/Common/Varint.h
 limits
 -
 sstream
@@ -442,19 +442,19 @@ type_traits
 utility
 -
 
-/var/www/html/jyocoin/src/Common/VectorOutputStream.cpp
+/var/www/html/jyocoin2/src/Common/VectorOutputStream.cpp
 VectorOutputStream.h
-/var/www/html/jyocoin/src/Common/VectorOutputStream.h
+/var/www/html/jyocoin2/src/Common/VectorOutputStream.h
 
-/var/www/html/jyocoin/src/Common/VectorOutputStream.h
+/var/www/html/jyocoin2/src/Common/VectorOutputStream.h
 cstdint
 -
 vector
 -
 IOutputStream.h
-/var/www/html/jyocoin/src/Common/IOutputStream.h
+/var/www/html/jyocoin2/src/Common/IOutputStream.h
 
-/var/www/html/jyocoin/src/Common/int-util.h
+/var/www/html/jyocoin2/src/Common/int-util.h
 assert.h
 -
 stdbool.h

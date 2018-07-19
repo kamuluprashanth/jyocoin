@@ -490,7 +490,7 @@ hash-ops.h
 stddef.h
 -
 
-/var/www/html/jyocoin/src/ConnectivityTool/ConnectivityTool.cpp
+/var/www/html/jyocoin2/src/ConnectivityTool/ConnectivityTool.cpp
 boost/optional.hpp
 -
 boost/program_options.hpp
@@ -516,23 +516,23 @@ System/TcpConnector.h
 System/Timer.h
 -
 Common/CommandLine.h
-/var/www/html/jyocoin/src/ConnectivityTool/Common/CommandLine.h
+/var/www/html/jyocoin2/src/ConnectivityTool/Common/CommandLine.h
 Common/StringTools.h
-/var/www/html/jyocoin/src/ConnectivityTool/Common/StringTools.h
+/var/www/html/jyocoin2/src/ConnectivityTool/Common/StringTools.h
 crypto/crypto.h
-/var/www/html/jyocoin/src/ConnectivityTool/crypto/crypto.h
+/var/www/html/jyocoin2/src/ConnectivityTool/crypto/crypto.h
 P2p/P2pProtocolDefinitions.h
-/var/www/html/jyocoin/src/ConnectivityTool/P2p/P2pProtocolDefinitions.h
+/var/www/html/jyocoin2/src/ConnectivityTool/P2p/P2pProtocolDefinitions.h
 P2p/LevinProtocol.h
-/var/www/html/jyocoin/src/ConnectivityTool/P2p/LevinProtocol.h
+/var/www/html/jyocoin2/src/ConnectivityTool/P2p/LevinProtocol.h
 Rpc/CoreRpcServerCommandsDefinitions.h
-/var/www/html/jyocoin/src/ConnectivityTool/Rpc/CoreRpcServerCommandsDefinitions.h
+/var/www/html/jyocoin2/src/ConnectivityTool/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/HttpClient.h
-/var/www/html/jyocoin/src/ConnectivityTool/Rpc/HttpClient.h
+/var/www/html/jyocoin2/src/ConnectivityTool/Rpc/HttpClient.h
 Serialization/SerializationTools.h
-/var/www/html/jyocoin/src/ConnectivityTool/Serialization/SerializationTools.h
+/var/www/html/jyocoin2/src/ConnectivityTool/Serialization/SerializationTools.h
 version.h
-/var/www/html/jyocoin/src/ConnectivityTool/version.h
+/var/www/html/jyocoin2/src/ConnectivityTool/version.h
 
 version/version.h
 

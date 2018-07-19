@@ -6,5 +6,5 @@ CXX_FLAGS =  -fno-strict-aliasing -maes -std=c++11 -D_GNU_SOURCE   -Wall -Wextra
 
 CXX_DEFINES = -DSTATICLIB -DUPNP_DYNAMIC
 
-CXX_INCLUDES = -I/var/www/html/jyocoin/include -I/var/www/html/jyocoin/src -I/var/www/html/jyocoin/external -I/var/www/html/jyocoin/build/release/version -I/var/www/html/jyocoin/src/Platform/Linux -I/var/www/html/jyocoin/src/Platform/Posix 
+CXX_INCLUDES = -I/var/www/html/jyocoin2/include -I/var/www/html/jyocoin2/src -I/var/www/html/jyocoin2/external -I/var/www/html/jyocoin2/build/release/version -I/var/www/html/jyocoin2/src/Platform/Linux -I/var/www/html/jyocoin2/src/Platform/Posix 
 

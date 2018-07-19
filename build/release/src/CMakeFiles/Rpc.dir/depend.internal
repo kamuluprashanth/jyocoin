@@ -26,8 +26,8 @@ src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o
  ../../src/Serialization/SerializationTools.h
  ../../src/System/Ipv4Address.h
  ../../src/System/TcpStream.h
- /var/www/html/jyocoin/src/Rpc/HttpClient.cpp
- /var/www/html/jyocoin/src/Rpc/HttpClient.h
+ /var/www/html/jyocoin2/src/Rpc/HttpClient.cpp
+ /var/www/html/jyocoin2/src/Rpc/HttpClient.h
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o
  ../../include/android.h
  ../../src/HTTP/HttpParser.h
@@ -44,8 +44,8 @@ src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
  ../../src/System/TcpStream.h
- /var/www/html/jyocoin/src/Rpc/HttpServer.cpp
- /var/www/html/jyocoin/src/Rpc/HttpServer.h
+ /var/www/html/jyocoin2/src/Rpc/HttpServer.cpp
+ /var/www/html/jyocoin2/src/Rpc/HttpServer.h
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -98,9 +98,9 @@ src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Rpc/CoreRpcServerCommandsDefinitions.h
- /var/www/html/jyocoin/src/Rpc/JsonRpc.cpp
- /var/www/html/jyocoin/src/Rpc/JsonRpc.h
+ /var/www/html/jyocoin2/src/Rpc/CoreRpcServerCommandsDefinitions.h
+ /var/www/html/jyocoin2/src/Rpc/JsonRpc.cpp
+ /var/www/html/jyocoin2/src/Rpc/JsonRpc.h
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -207,16 +207,16 @@ src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /var/www/html/jyocoin/src/Rpc/CoreRpcServerCommandsDefinitions.h
- /var/www/html/jyocoin/src/Rpc/CoreRpcServerErrorCodes.h
- /var/www/html/jyocoin/src/Rpc/HttpServer.h
- /var/www/html/jyocoin/src/Rpc/JsonRpc.h
- /var/www/html/jyocoin/src/Rpc/RpcServer.cpp
- /var/www/html/jyocoin/src/Rpc/RpcServer.h
+ /var/www/html/jyocoin2/src/Rpc/CoreRpcServerCommandsDefinitions.h
+ /var/www/html/jyocoin2/src/Rpc/CoreRpcServerErrorCodes.h
+ /var/www/html/jyocoin2/src/Rpc/HttpServer.h
+ /var/www/html/jyocoin2/src/Rpc/JsonRpc.h
+ /var/www/html/jyocoin2/src/Rpc/RpcServer.cpp
+ /var/www/html/jyocoin2/src/Rpc/RpcServer.h
  version/version.h
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o
  ../../include/android.h
  ../../src/Common/CommandLine.h
  ../../src/CryptoNoteConfig.h
- /var/www/html/jyocoin/src/Rpc/RpcServerConfig.cpp
- /var/www/html/jyocoin/src/Rpc/RpcServerConfig.h
+ /var/www/html/jyocoin2/src/Rpc/RpcServerConfig.cpp
+ /var/www/html/jyocoin2/src/Rpc/RpcServerConfig.h

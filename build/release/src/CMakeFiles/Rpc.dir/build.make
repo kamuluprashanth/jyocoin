@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /var/www/html/jyocoin
+CMAKE_SOURCE_DIR = /var/www/html/jyocoin2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /var/www/html/jyocoin/build/release
+CMAKE_BINARY_DIR = /var/www/html/jyocoin2/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/Rpc.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/Rpc.dir/flags.make
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o: src/CMakeFiles/Rpc.dir/flags.make
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o: ../../src/Rpc/RpcServerConfig.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o -c /var/www/html/jyocoin/src/Rpc/RpcServerConfig.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o -c /var/www/html/jyocoin2/src/Rpc/RpcServerConfig.cpp
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Rpc/RpcServerConfig.cpp > CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Rpc/RpcServerConfig.cpp > CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.i
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Rpc/RpcServerConfig.cpp -o CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Rpc/RpcServerConfig.cpp -o CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.s
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o.provides.build: src/CMakeFiles/
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o: src/CMakeFiles/Rpc.dir/flags.make
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o: ../../src/Rpc/RpcServer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o -c /var/www/html/jyocoin/src/Rpc/RpcServer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o -c /var/www/html/jyocoin2/src/Rpc/RpcServer.cpp
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Rpc/RpcServer.cpp > CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Rpc/RpcServer.cpp > CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.i
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Rpc/RpcServer.cpp -o CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Rpc/RpcServer.cpp -o CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.s
 
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o.provides.build: src/CMakeFiles/Rpc.di
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o: src/CMakeFiles/Rpc.dir/flags.make
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o: ../../src/Rpc/HttpServer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o -c /var/www/html/jyocoin/src/Rpc/HttpServer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o -c /var/www/html/jyocoin2/src/Rpc/HttpServer.cpp
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Rpc/HttpServer.cpp > CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Rpc/HttpServer.cpp > CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.i
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Rpc/HttpServer.cpp -o CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Rpc/HttpServer.cpp -o CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.s
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o.provides.build: src/CMakeFiles/Rpc.d
 
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o: src/CMakeFiles/Rpc.dir/flags.make
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o: ../../src/Rpc/JsonRpc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o -c /var/www/html/jyocoin/src/Rpc/JsonRpc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o -c /var/www/html/jyocoin2/src/Rpc/JsonRpc.cpp
 
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Rpc/JsonRpc.cpp > CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Rpc/JsonRpc.cpp > CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.i
 
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Rpc/JsonRpc.cpp -o CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Rpc/JsonRpc.cpp -o CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.s
 
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o.requires:
 
@@ -155,16 +155,16 @@ src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o.provides.build: src/CMakeFiles/Rpc.dir/
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o: src/CMakeFiles/Rpc.dir/flags.make
 src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o: ../../src/Rpc/HttpClient.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o -c /var/www/html/jyocoin/src/Rpc/HttpClient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o"
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o -c /var/www/html/jyocoin2/src/Rpc/HttpClient.cpp
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.i"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin/src/Rpc/HttpClient.cpp > CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.i
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /var/www/html/jyocoin2/src/Rpc/HttpClient.cpp > CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.i
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.s"
-	cd /var/www/html/jyocoin/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin/src/Rpc/HttpClient.cpp -o CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.s
+	cd /var/www/html/jyocoin2/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /var/www/html/jyocoin2/src/Rpc/HttpClient.cpp -o CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.s
 
 src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o.requires:
 
@@ -195,9 +195,9 @@ src/libRpc.a: src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o
 src/libRpc.a: src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o
 src/libRpc.a: src/CMakeFiles/Rpc.dir/build.make
 src/libRpc.a: src/CMakeFiles/Rpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/html/jyocoin/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library libRpc.a"
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Rpc.dir/cmake_clean_target.cmake
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Rpc.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/html/jyocoin2/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library libRpc.a"
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Rpc.dir/cmake_clean_target.cmake
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Rpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/Rpc.dir/build: src/libRpc.a
@@ -213,10 +213,10 @@ src/CMakeFiles/Rpc.dir/requires: src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o.req
 .PHONY : src/CMakeFiles/Rpc.dir/requires
 
 src/CMakeFiles/Rpc.dir/clean:
-	cd /var/www/html/jyocoin/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Rpc.dir/cmake_clean.cmake
+	cd /var/www/html/jyocoin2/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Rpc.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/Rpc.dir/clean
 
 src/CMakeFiles/Rpc.dir/depend:
-	cd /var/www/html/jyocoin/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin /var/www/html/jyocoin/src /var/www/html/jyocoin/build/release /var/www/html/jyocoin/build/release/src /var/www/html/jyocoin/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /var/www/html/jyocoin2/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/www/html/jyocoin2 /var/www/html/jyocoin2/src /var/www/html/jyocoin2/build/release /var/www/html/jyocoin2/build/release/src /var/www/html/jyocoin2/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/Rpc.dir/depend
 

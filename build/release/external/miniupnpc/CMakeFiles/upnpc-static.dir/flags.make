@@ -6,5 +6,5 @@ C_FLAGS = -O3 -DNDEBUG    -Wno-undef -Wno-unused-result -Wno-unused-value
 
 C_DEFINES = -DMINIUPNPC_SET_SOCKET_TIMEOUT -D_BSD_SOURCE -D_POSIX_C_SOURCE=1
 
-C_INCLUDES = -I/var/www/html/jyocoin/include -I/var/www/html/jyocoin/src -I/var/www/html/jyocoin/external -I/var/www/html/jyocoin/build/release/version -I/var/www/html/jyocoin/src/Platform/Linux -I/var/www/html/jyocoin/src/Platform/Posix -I/var/www/html/jyocoin/build/release 
+C_INCLUDES = -I/var/www/html/jyocoin2/include -I/var/www/html/jyocoin2/src -I/var/www/html/jyocoin2/external -I/var/www/html/jyocoin2/build/release/version -I/var/www/html/jyocoin2/src/Platform/Linux -I/var/www/html/jyocoin2/src/Platform/Posix -I/var/www/html/jyocoin2/build/release 
 

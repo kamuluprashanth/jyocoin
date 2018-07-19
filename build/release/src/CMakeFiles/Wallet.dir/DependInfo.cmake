@@ -4,22 +4,22 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/var/www/html/jyocoin/src/Wallet/LegacyKeysImporter.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletAsyncContextCounter.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletErrors.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletGreen.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletRpcServer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletSerializationV1.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerializationV1.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletSerializationV2.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerializationV2.cpp.o"
-  "/var/www/html/jyocoin/src/Wallet/WalletUtils.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/KeysStorage.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletHelper.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletLegacy.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletLegacySerialization.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletLegacySerializer.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletTransactionSender.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletUnconfirmedTransactions.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o"
-  "/var/www/html/jyocoin/src/WalletLegacy/WalletUserTransactionsCache.cpp" "/var/www/html/jyocoin/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/LegacyKeysImporter.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletAsyncContextCounter.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletErrors.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletGreen.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletRpcServer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletSerializationV1.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerializationV1.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletSerializationV2.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerializationV2.cpp.o"
+  "/var/www/html/jyocoin2/src/Wallet/WalletUtils.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/KeysStorage.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletHelper.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletLegacy.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletLegacySerialization.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletLegacySerializer.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletTransactionSender.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletUnconfirmedTransactions.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o"
+  "/var/www/html/jyocoin2/src/WalletLegacy/WalletUserTransactionsCache.cpp" "/var/www/html/jyocoin2/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
